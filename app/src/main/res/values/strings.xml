@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+    <string-array name="WorkingFields">
+        <item>Computer Science</item>
+        <item>Computer Engineer</item>
+        <item>Electrical Engineer</item>
+        <item>Web Development</item>
+        <item>Mobile Apps Development</item>
+        <item>Software Engineer</item>
+        <item>Quality Assurance</item>
+        <item>Networks and Communication</item>
+        <item>Atificial Intelligence</item>
+        <item>Games Development</item>
+        <item>Graphic Design</item>
+        <item>Digital Marketing</item>
+    </string-array>
+
+    <string-array name="Locations">
+        <item>Ramallah</item>
+        <item>Nablus</item>
+        <item>Jerusalem</item>
+        <item>Jenin</item>
+        <item>Gaza</item>
+        <item>Jericho</item>
+        <item>Tulkarem</item>
+        <item>Hebron</item>
+    </string-array>
+</resources>
